@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/fashion-trends/static/css/main.f1063e3d.chunk.css",
+    "main.js": "/fashion-trends/static/js/main.ef0f1ee0.chunk.js",
+    "main.js.map": "/fashion-trends/static/js/main.ef0f1ee0.chunk.js.map",
+    "runtime-main.js": "/fashion-trends/static/js/runtime-main.1d962f58.js",
+    "runtime-main.js.map": "/fashion-trends/static/js/runtime-main.1d962f58.js.map",
+    "static/js/2.cc9f4fd2.chunk.js": "/fashion-trends/static/js/2.cc9f4fd2.chunk.js",
+    "static/js/2.cc9f4fd2.chunk.js.map": "/fashion-trends/static/js/2.cc9f4fd2.chunk.js.map",
+    "static/js/3.24b3fcca.chunk.js": "/fashion-trends/static/js/3.24b3fcca.chunk.js",
+    "static/js/3.24b3fcca.chunk.js.map": "/fashion-trends/static/js/3.24b3fcca.chunk.js.map",
+    "static/js/4.b1776236.chunk.js": "/fashion-trends/static/js/4.b1776236.chunk.js",
+    "static/js/4.b1776236.chunk.js.map": "/fashion-trends/static/js/4.b1776236.chunk.js.map",
+    "static/js/5.b037074b.chunk.js": "/fashion-trends/static/js/5.b037074b.chunk.js",
+    "static/js/5.b037074b.chunk.js.map": "/fashion-trends/static/js/5.b037074b.chunk.js.map",
+    "index.html": "/fashion-trends/index.html",
+    "precache-manifest.d541746860ff8a4f03cdfd1c3137c9de.js": "/fashion-trends/precache-manifest.d541746860ff8a4f03cdfd1c3137c9de.js",
+    "service-worker.js": "/fashion-trends/service-worker.js",
+    "static/css/main.f1063e3d.chunk.css.map": "/fashion-trends/static/css/main.f1063e3d.chunk.css.map",
+    "static/js/2.cc9f4fd2.chunk.js.LICENSE.txt": "/fashion-trends/static/js/2.cc9f4fd2.chunk.js.LICENSE.txt",
+    "static/media/trends.jpeg": "/fashion-trends/static/media/trends.bc857127.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d962f58.js",
+    "static/js/2.cc9f4fd2.chunk.js",
+    "static/css/main.f1063e3d.chunk.css",
+    "static/js/main.ef0f1ee0.chunk.js"
+  ]
+}
